@@ -1,5 +1,16 @@
 # SimpleExpressServer
 Basic express server example
+This example generated using express command. You must have express installed on your system
+
+```sh
+$ npm install express-generator -g
+```
+
+#Generated
+```sh
+$ express SimpleExpressServer
+```
+
 
 Assume node and npm (node package manager) is already installed
 
@@ -12,6 +23,7 @@ $ git clone https://github.com/adious/SimpleExpressServer.git
 ##Install install dependencies in package.json 
 
 ```sh
+$ cd SimpleExpressServer
 $ npm install
 ```
 
